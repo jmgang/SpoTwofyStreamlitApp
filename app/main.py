@@ -9,4 +9,4 @@ st.markdown(title, unsafe_allow_html=True)
 
 # Create sidebar with buttons
 st.sidebar.title('Navigation')
-page = st.sidebar.selectbox("Choose a page", ["Home", "EDA", "Recommender Engine"])
+page = st.sidebar.selectbox("Choose a page", ["Main", "EDA", "Recommender Engine"])
