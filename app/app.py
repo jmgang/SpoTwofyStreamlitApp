@@ -31,7 +31,7 @@ def generate_iframe(track_id, rank):
     return iframe_code
 
 # Setting the page layout to wide mode
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide", page_title='SpoTwoFy Recommender')
 
 # Custom CSS for styling
 st.markdown(
