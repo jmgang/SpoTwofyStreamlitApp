@@ -1,10 +1,10 @@
 # SpoTwoFy Streamlit App
 
-For the project notebooks see: [SpoTwoFy Project Notebooks](https://github.com/jmgang/SpoTwoFy-project-notebooks)
-
 ## Introduction
 
 This is a Streamlit project designed by SpoTwoFy.
+
+For the project notebooks see: [SpoTwoFy Project Notebooks](https://github.com/jmgang/SpoTwoFy-project-notebooks)
 
 ## Installation
 
